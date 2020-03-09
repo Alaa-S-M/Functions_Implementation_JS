@@ -40,7 +40,6 @@ console.log(isElementVisible(input1));
 function isElementVisible(elementToCheck){
     let parent = elementToCheck; 
     while(parent && parent.offsetParent){
-       console.log(parent);
         if(parent.style.opacity =="0" || parent.style.visibility =="hidden")
             return false;
         parent = parent.parentElement;
