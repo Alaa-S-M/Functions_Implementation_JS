@@ -1,6 +1,6 @@
 # Functions_Implementation_JS
 
-The repository is created due to training purposes.
+The repository is created for training purposes.
 It contains an implementation of 4 Functions in JavaScript, and HTML file for testing the last function.
 
 The Functions:
